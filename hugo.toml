@@ -1,0 +1,16 @@
+baseURL = 'https://mrtsec.xyz/'
+languageCode = 'en-us'
+title = 'MRTSec'
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'
+
+  # header social icons
+  twitter = 'MRTSec'
+
+  # home page profile
+  avatar = 'contact@mrtsec.xyz'
+  name = 'MRTSec'
+  bio = 'Just a guy trying to build stuff and blogging'
